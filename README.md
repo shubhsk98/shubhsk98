@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kadu16)
 
 
-Languages and Tools:
-cplusplus matlab mysql opencv pandas postgresql python pytorch scikit_learn seaborn tensorflow
+## 🔗 Languages and Tools:
+matlab mysql opencv pandas postgresql python pytorch scikit_learn seaborn tensorflow
